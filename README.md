@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet LALE </h1>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkantagur&label=Profile%20views&color=0e75b6&style=flat" alt="berkantagur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SSoulSociety&label=Profile%20views&color=0e75b6&style=flat" alt="SSoulSociety" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **C programming language.**
