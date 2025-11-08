@@ -6,4 +6,4 @@
 
 - 📫 You can reach me at **lalemehmet449@gmail.com** e-mail address.
 
-- ⚡ I'm a cheerful and energetic person
+
