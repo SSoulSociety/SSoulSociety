@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Mehmet+Lale;Computer+Engineering+Student;Interested+in+Data+Science+%26+AI;Building+real+projects+every+week" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Mehmet+Lale;Computer+Engineering+Student;Interested+in+Data+Science+%26+AI;" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 
 ---
