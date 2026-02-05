@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 - 🎓 Computer Engineering student at Çukurova University  
-- 🧩 Interested in **Data Science & AI**  
+- 🧩 Interested in **Backend Development**  
 - 🧠 First year in Teknofest — learning fast and building real projects  
 
 ---
