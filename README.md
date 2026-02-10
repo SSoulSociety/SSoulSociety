@@ -10,7 +10,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 Computer Engineering student at Çukurova University  
+- 🎓 3rd grade Computer Engineering student at Çukurova University  
 - 🧩 Interested in **Backend Development**  
 - 🧠 First year in Teknofest — learning fast and building real projects  
 
